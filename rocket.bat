@@ -23,7 +23,7 @@ goto injection
 
 :injection 
 
-title STAGE 2
+title Rocket Launcher v1.1 - Injection
 echo This window will close itself. Please wait...
 timeout %6
 watson-injects64_SEH %4.dll FortniteClient-Win64-Shipping.exe
