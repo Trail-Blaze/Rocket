@@ -70,7 +70,7 @@ echo NOTE: that if the bypass is a path that includes spaces, ensure that you su
 echo.
 echo Example:
 REM be, eac, none
-echo    ROCKET "E:\Epic Games\Fortnite 15\FortniteGame\Binaries\Win64\" eac 87a0c99d9aa3ab5bb6a36C25 platinum Jake123
+echo    ROCKET "E:\Epic Games\Fortnite 15\FortniteGame\Binaries\Win64\" eac 87a0c99d9aa3ab5bb6a36C25 platinum Jake123 15
 echo.
 
 :EOF
