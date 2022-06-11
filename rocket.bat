@@ -1,5 +1,5 @@
 @echo off
-REM (c) 2022 Immanuel Garcia - AlexDev404
+REM (CC0) 2022 Immanuel Garcia - AlexDev404 - No rights reserved
 
 title Rocket Launcher v1.1 - Launching FortniteClient
 REM SET /P arg="Fortnite PATH: "
