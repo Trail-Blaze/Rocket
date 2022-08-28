@@ -17,7 +17,7 @@ title STAGE 1
 REM REPLACED %3 with 7a848a93a74ba68876c36C1c
 REM UPDATE: REPLACED FLTOKEN WITH FLTOKENv15: a086959bb0acadb275ca7371
 echo Starting Fortnite...
-start /b cmd /c %1FortniteClient-Win64-Shipping.exe -AUTH_TYPE=epic -epicapp=Fortnite -epicportal -fltoken=%3 -fromfl=%2 -noeac -nobe -skippatchcheck -AUTH_LOGIN=%5@blaze.net -AUTH_PASSWORD=unused
+start /b cmd /c "%1"FortniteClient-Win64-Shipping.exe -AUTH_TYPE=epic -epicapp=Fortnite -epicportal -fltoken=%3 -fromfl=%2 -noeac -nobe -skippatchcheck -AUTH_LOGIN=%5@blaze.net -AUTH_PASSWORD=unused
 goto injection
 
 
